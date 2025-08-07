@@ -1,0 +1,18 @@
+import java.util.*;
+public class Solution {
+public static void main(String[] args) {
+Scanner Sc=new Scanner(system.in);
+int n=Sc.nextint();
+for (int i=1;i<=n;i++)
+{
+for(int j=1;j<=n;j++)
+{
+if(i=1||i==n||j==1||j==n)
+{
+system.out.print("*");
+else
+{
+}
+system.out.println();
+}
+}
